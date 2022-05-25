@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 6965733656838423209}
   - component: {fileID: 7870038844141791189}
   m_Layer: 0
-  m_Name: Camera Target
+  m_Name: Cube Camera Target
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 0dfae336aeb68aa46bc50fcfb6ca8e45, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
